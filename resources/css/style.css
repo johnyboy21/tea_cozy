@@ -5,6 +5,7 @@ body {
   text-align: center;
   color: seashell;
   margin: 0px;
+  background-color: black;
 }
 header {
   align-items: center;
@@ -31,4 +32,28 @@ nav {
 nav span {
   display: inline-block;
   padding: 20px 10px;
+}
+a {
+  text-decoration: underline;
+  color: seashell;
+}
+.main-content {
+  width: 1200px;
+  opacity: .9;
+  padding-top: 70px;
+  display: inline-block;
+}
+#mission {
+  background-image: url("../images/img-mission-background.jpg");
+  height: 700px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#mission .text {
+  background-color: black;
+  width: 100%;
+  margin: auto;
 }
