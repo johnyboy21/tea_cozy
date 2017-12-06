@@ -39,7 +39,6 @@ a {
 }
 .main-content {
   width: 1200px;
-  opacity: .9;
   padding-top: 70px;
   display: inline-block;
 }
@@ -56,4 +55,23 @@ a {
   background-color: black;
   width: 100%;
   margin: auto;
+}
+#featured-tea {
+  width: 1000px;
+  margin: auto;
+  height: 700px;
+  padding-top: 40px;
+}
+.item img {
+  height: 200px;
+  width: 300px;
+  display: block;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+.item span {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin: auto;
+  display: block;
 }
