@@ -98,3 +98,9 @@ a {
   margin-bottom: 40px;
   margin-top: 40px;
 }
+.contact {
+  height: 200px;
+}
+.contact h2 {
+  margin-top: 10px;
+}
