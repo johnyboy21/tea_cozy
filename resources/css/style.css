@@ -75,3 +75,26 @@ a {
   margin: auto;
   display: block;
 }
+#locations {
+  background-image: url("../images/img-locations-background.jpg");
+  width: 1200px;
+  height: 500px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+#locations h2{
+  margin-bottom: 15px;
+}
+.location {
+  background-color: black;
+  margin-right: 20px;
+  margin-left: 20px;
+  display: block;
+  width: 300px;
+  height: 280px;
+  opacity: 1.0;
+}
+.location p {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
